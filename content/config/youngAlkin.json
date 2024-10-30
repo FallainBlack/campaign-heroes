@@ -29,8 +29,8 @@
     [
 	  {
         "creature" : "gnoll",
-        "max" : 20,
-        "min" : 10
+        "max" : 25,
+        "min" : 15
       },
       {
         "creature" : "lizardman",
@@ -40,7 +40,7 @@
       {
         "creature" : "serpentFly",
         "max" : 4,
-        "min" : 2
+        "min" : 3
       }
     ],
 	
