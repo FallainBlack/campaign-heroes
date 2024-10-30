@@ -11,7 +11,7 @@
       "biography" : "Sandro first studied Necromancy under the tutelage of the wizard, and later the lich, Ethric. Sandro has seen nearly all of Enroth and Erathia, and now serves Finneas Vilmar, leader of the Necromancers of Deyja.",
       "specialty" :
       {
-        "description" : "{Sorcery}\r\n\r\nReceives a 5% per level bonus to Sorcery skill percentage.",
+        "description" : "Receives a 5% per level bonus to Sorcery skill percentage.",
         "tooltip" : "Secondary Skill Bonus: Sorcery",
         "name" : "Sorcery"
       }

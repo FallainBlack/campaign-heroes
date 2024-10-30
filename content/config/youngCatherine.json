@@ -11,8 +11,8 @@
       "biography" : "As the reigning queen of Erathia, Catherine continues to wage war to secure her homeland's borders and restablish the peace built by her father. However, support for her position is faltering as the country grows weary of war.",
       "specialty" :
       {
-        "description" : "{Gold}\r\n\r\nIncreases the attack and defense skills of any Swordsmen or Crusaders for each level attained after 4th level.",
-        "tooltip" : "Creature bonus: Swordsmen",
+        "description" : "Increases the speed of any Swordsmen or Crusaders by 1 and their Attack and Defense skills by 5% for every 4 levels (rounded up).",
+        "tooltip" : "Creature Bonus: Swordsmen",
         "name" : "Swordsmen"
       }
     },
