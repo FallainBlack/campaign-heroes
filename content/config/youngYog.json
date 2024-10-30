@@ -11,7 +11,7 @@
       "biography" : "Yog studied many years with the Wizards of Bracada, but he would rather spend his time engaging in swordplay rather than studying magic.",
       "specialty" :
       {
-        "description" : "{Chain Lightning}\r\n\r\nCasts Chain Lightning spell with effect increased by 3% for every n hero levels (n - target creature level).",
+        "description" : "Casts Chain Lightning with damage increased by 3% for every n hero levels, where n is the level of the targeted creature.",
         "tooltip" : "Spell Bonus: Chain Lightning",
         "name" : "Chain Lightning"
       }
@@ -28,19 +28,19 @@
     "army" :
     [
 	  {
-        "creature" : "masterGremlin",
-        "max" : 30,
-        "min" : 20
+        "creature" : "gremlin",
+        "max" : 40,
+        "min" : 30
       },
       {
         "creature" : "stoneGargoyle",
-        "max" : 12,
-        "min" : 6
+        "max" : 7,
+        "min" : 5
       },
       {
         "creature" : "ironGolem",
-        "max" : 4,
-        "min" : 2
+        "max" : 5,
+        "min" : 4
       }
     ],
 	
